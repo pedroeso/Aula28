@@ -1,0 +1,9 @@
+﻿id_aluno,nome,nome_curso,turno,nome_disciplina,nota,data_avaliacao
+10,Eduarda,Adm,Noite,Banco de Dados,8.5,2026-06-30
+10,Eduarda,Adm,Noite,Lógica de Programação,8.0,2026-06-30
+8,Leticia,Adm,Noite,Gestão Financeira,6.5,2026-06-30
+8,Leticia,Adm,Noite,Marketing,9.0,2026-06-30
+3,Pedro,Adm,Noite,Gestão Financeira,7.5,2026-06-30
+7,Caroline,Enfermagem,Noite,Anatomia,7.0,2026-06-30
+7,Caroline,Enfermagem,Noite,Farmacologia,6.0,2026-06-30
+9,Eduardo,Enfermagem,Noite,Farmacologia,9.5,2026-06-30
